@@ -26,10 +26,7 @@ voting_option_titles: "Accept", "Reject"
 
 Token: [link to token]().
 
-As a part of 1inch Liquidity Protocol approach of progressive decentralization and our long-term plan to transfer more control to the $1INCH stakeholders, token listing decisions - ‘Approve’ or ‘Reject’ - will be undertaken by the $1INCH stakers members. This is explained in our [1ip framework](https://github.com/1inchNetwork/1IPs/blob/master/1IPs/1IP-5.md/).
-
-Please visit 1inch.org, connect your wallet, and stake KNC to participate in the governance and decision-making process for 1ip-1.
-
+As a part of 1inch Liquidity Protocol approach of progressive decentralization and our long-term plan to transfer more control to the $1INCH stakeholders, token listing decisions - ‘Approve’ or ‘Reject’ - will be undertaken by the $1INCH stakers members.
 
 ## Motivation:
 
