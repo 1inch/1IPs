@@ -3,8 +3,7 @@ name: 1inch Listing Proposal
 about: Listing Proposal for new tokens
 title: "1inch Listing Proposal for {XXX}"
 labels: listing
-assignees: ''
-
+assignees: ""
 ---
 
 1lp: 1

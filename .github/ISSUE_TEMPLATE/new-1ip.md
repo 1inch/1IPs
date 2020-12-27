@@ -3,8 +3,7 @@ name: 1inch Improvement Proposal
 about: 1inch Improvement Proposal
 title: "Improvement Description goes here"
 labels: improvement
-assignees: ''
-
+assignees: ""
 ---
 
 1ip: 1
