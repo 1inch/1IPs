@@ -9,7 +9,7 @@ assignees: ''
 
 1ip: 1
 title: 1inch Liquidity Proposal concepts and terminologies
-status: Active
+status: Draft
 type: Information
 author: 1inch Network team
 created: 2020-12-25
