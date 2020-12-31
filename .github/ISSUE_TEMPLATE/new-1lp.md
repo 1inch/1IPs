@@ -9,7 +9,7 @@ assignees: ''
 
 1lp: 1
 title: 1inch Listing Proposal for {XXX}
-status: Active
+status: Draft
 type: Listing
 author: 1inch team
 created: 2020-12-25
